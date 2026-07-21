@@ -1,28 +1,48 @@
 # MARUF-X-HUB_INFO
-README.md
+🚀 MARUF PROFILE
 
-MARUF-X-HUB
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-Maruf%20Hossain-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Country-Bangladesh-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge">
+</p>👋 Hello, I'm Maruf Hossain
 
-Welcome to MARUF-X-HUB, the official portfolio of Maruf Hossain.
+Welcome to my official GitHub profile repository.
 
-🌐 Live Demo
+This repository contains information about me, my projects, skills, portfolio, and future goals.
 
-https://maruf-x-hub.onrender.com
+---
 
-👨‍💻 About Me
+🌍 About Me
 
-Hi! I'm Maruf Hossain, a Full Stack Developer from Bangladesh. I enjoy building modern web applications, AI-powered tools, automation projects, and open-source software.
+- 💻 Full Stack Developer
+- 🤖 AI & Automation Enthusiast
+- 🌐 Web Developer
+- 📱 Mobile Friendly Web Designer
+- 🇧🇩 From Bangladesh
 
-✨ Features
+---
 
-- Responsive Design
-- Modern UI/UX
-- Fast Performance
-- SEO Friendly
-- AI Ready
-- Mobile Friendly
+🚀 Portfolio
 
-🛠️ Technologies
+🌐 https://maruf-x-hub.onrender.com
+
+---
+
+📧 Contact
+
+Email:
+mymaruf94@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/maruf-hossain-80908a411
+
+GitHub:
+https://github.com/Maruf127679-pixel
+
+---
+
+🛠 Tech Stack
 
 - HTML5
 - CSS3
@@ -33,24 +53,35 @@ Hi! I'm Maruf Hossain, a Full Stack Developer from Bangladesh. I enjoy building 
 - Git
 - GitHub
 
-🚀 Installation
+---
 
-📸 Screenshot
+📂 Repository Files
 
-🤝 Contributing
+- ABOUT.md
+- PROJECTS.md
+- SKILLS.md
+- RESUME.md
+- CONTACT.md
+- ROADMAP.md
+- FAQ.md
 
-Contributions are welcome. Please read CONTRIBUTING.md before submitting changes.
+---
 
-📄 License
+⭐ Current Goals
 
-This project is licensed under the MIT License.
+- Build useful AI tools
+- Learn advanced backend development
+- Contribute to open source
+- Create high-quality web applications
 
-👤 Author
+---
 
-Maruf Hossain
+📜 License
 
-Email: mymaruf94@gmail.com
+MIT License
 
-Portfolio: https://maruf-x-hub.onrender.com
+---
 
-LinkedIn: https://www.linkedin.com/in/maruf-hossain-80908a411
+Thank you for visiting my profile repository.
+
+If you like my work, consider giving my repositories a ⭐.
